@@ -1,2 +1,2 @@
-# bookmark-landing-frontmentorio
-landing page code designed by frontmentor.io
+# bookmark-landing-frontendmentorio
+landing page code designed by frontendmentor.io
